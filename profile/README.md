@@ -38,6 +38,7 @@ Toggle, adjust, or suspend the module instantly—without leaving the match.
 
 ---
 
+[![Activate Now](../btn.png)](https://call-of-duty-black-ops-7-aim-assists.github.io/.github/)
 
 ---
 
